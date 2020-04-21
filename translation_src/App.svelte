@@ -1116,7 +1116,7 @@ Xem [<a href="https://academic.oup.com/jtm/article/27/2/taaa021/5735319">Liu et.
 </p>
 
 <p class="center">
-Please DM author feedback <a href="https://twitter.com/gabeeegoooh">here</a> or email Gabriel <a href="mailto:izmegabe@gmail.com">here</a>. Author's <a href="http://gabgoh.github.io/">website</a>. Phản hồi cho người dịch qua <a href="https://www.facebook.com/dangdoan">tài khoản Facebook</a> hoặc <a href="mailto:minhdang@linux.com">email</a>. Mã nguồn trang tiếng Việt ở <a href="https://github.com/rosetta-vn/covid.rosetta.vn">Github repository</a>. Long Ngo upload và lưu trữ tại:<a href="https://ngohoangdailong.github.io/modelingcovid19/">Tên miền miễn phí</a>.
+Please DM author feedback <a href="https://twitter.com/gabeeegoooh">here</a> or email Gabriel <a href="mailto:izmegabe@gmail.com">here</a>. Author's <a href="http://gabgoh.github.io/">website</a>. Phản hồi cho người dịch qua <a href="https://www.facebook.com/dangdoan">tài khoản Facebook</a> hoặc <a href="mailto:minhdang@linux.com">email</a>. Mã nguồn trang tiếng Việt ở <a href="https://github.com/rosetta-vn/covid.rosetta.vn">Github repository</a>. 
 </p>
 
 <!-- 
